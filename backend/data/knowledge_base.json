@@ -1,0 +1,800 @@
+[
+  {
+    "id": "adm-001",
+    "category": "Admissions",
+    "subcategory": "UG Process",
+    "department": null,
+    "keywords": [
+      "admission",
+      "ug",
+      "undergraduate",
+      "process",
+      "how to apply",
+      "acpc",
+      "ddcet",
+      "diploma",
+      "degree",
+      "d2d",
+      "lateral"
+    ],
+    "question_examples": [
+      "What is the admission process for LDCE?",
+      "How to get admission in LDCE?",
+      "What is the process for UG admission?",
+      "How do I apply to LDCE?",
+      "Guide me through the LDCE admission process",
+      "What is ACPC admission?",
+      "How does DDCET admission work?",
+      "What is D2D admission at LDCE?"
+    ],
+    "answer": "## UG Admission Process at LDCE\n\n**LDCE** (Lalbhai Dalpatbhai College of Engineering) offers admission to undergraduate (4-year B.E.) programmes through the **ACPC (Admission Committee for Professional Courses)**, Government of Gujarat.\n\n### Fresh Entry (Class 12)\n1. Clear **JEE Main** or pass **GUJCET** (Gujarat Common Entrance Test)\n2. Register on the ACPC portal and fill branch/college choices\n3. Attend seat allotment rounds (merit-based, reservation norms apply)\n4. Report to LDCE with required documents and pay fees\n\n### Lateral Entry / D2D (Diploma to Degree)\n- Diploma holders can seek direct second-year (D2D) admission through ACPC\n- Based on diploma results; DDCET score required for some seats\n\n> **Please verify current dates and cut-offs on the official ACPC portal and LDCE website for the latest cycle.**\n\n📎 [LDCE UG Admissions](https://ldce.ac.in/admissions/ug-programs) | [ACPC Gujarat](https://acpc.gujarat.gov.in)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "adm-002",
+    "category": "Admissions",
+    "subcategory": "Eligibility",
+    "department": null,
+    "keywords": [
+      "eligibility",
+      "criteria",
+      "marks",
+      "percentage",
+      "qualify",
+      "10+2",
+      "12th",
+      "science",
+      "pcm",
+      "physics chemistry mathematics"
+    ],
+    "question_examples": [
+      "What is the eligibility for admission to LDCE?",
+      "What percentage do I need to get into LDCE?",
+      "What are the eligibility criteria for B.E. at LDCE?",
+      "Eligibility for computer engineering at LDCE",
+      "Do I need JEE for LDCE admission?",
+      "Minimum marks for LDCE admission"
+    ],
+    "answer": "## Eligibility Criteria for UG Admission\n\n- Passed **10+2 (HSC)** or equivalent with **Physics, Chemistry, and Mathematics (PCM)**\n- Minimum aggregate marks in PCM: please check the official ACPC/LDCE guidelines for the current academic year\n- Valid **JEE Main** score **or** **GUJCET** score is typically required\n- Indian nationals and NRI/OCI categories have separate quotas\n\n> ⚠️ **Exact minimum percentage cut-offs vary by academic year and category. Please verify on the ACPC portal.**\n\n📎 [LDCE UG Programs](https://ldce.ac.in/admissions/ug-programs)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "adm-003",
+    "category": "Admissions",
+    "subcategory": "Cutoffs",
+    "department": null,
+    "keywords": [
+      "cutoff",
+      "closing rank",
+      "last rank",
+      "merit",
+      "opening rank",
+      "seat allotment rank"
+    ],
+    "question_examples": [
+      "What are the LDCE cutoffs?",
+      "What was the CSE cutoff at LDCE?",
+      "LDCE closing rank for computer engineering",
+      "Last rank for admission in IT department LDCE",
+      "ACPC cutoff for LDCE 2024"
+    ],
+    "answer": "## Admission Cutoffs (Closing Ranks)\n\nCutoff ranks at LDCE vary each year depending on the number of applicants, available seats, and performance in qualifying examinations.\n\n> ⚠️ **We do not display specific cutoff ranks here as they change every academic year and can be misleading.** Please check the official ACPC results or LDCE admissions page for the current year's closing ranks.\n\n📎 [LDCE Admissions](https://ldce.ac.in/admissions/ug-programs) | [Mandatory Disclosure](https://ldce.ac.in/about/MandatoryDisclosure)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "adm-004",
+    "category": "Admissions",
+    "subcategory": "Documents",
+    "department": null,
+    "keywords": [
+      "documents",
+      "required",
+      "certificate",
+      "marksheet",
+      "id proof",
+      "caste certificate",
+      "domicile",
+      "school leaving"
+    ],
+    "question_examples": [
+      "What documents are required for LDCE admission?",
+      "Documents needed for admission",
+      "Which certificates should I bring for admission?",
+      "What proof do I need for LDCE?",
+      "Documents for lateral entry admission at LDCE"
+    ],
+    "answer": "## Documents Required for Admission\n\nTypically required documents include:\n- Mark sheet of qualifying examination (10+2 / Diploma)\n- JEE Main / GUJCET / DDCET scorecard\n- School / College Leaving Certificate\n- Caste / Category certificate (if applicable)\n- Domicile / Nativity certificate\n- Passport-size photographs\n- Aadhar card (identity proof)\n- Medical fitness certificate\n\n> ⚠️ **The exact document checklist is confirmed by ACPC and LDCE each year. Verify the latest list before reporting.**\n\n📎 [LDCE Admissions](https://ldce.ac.in/admissions/ug-programs)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "adm-005",
+    "category": "Admissions",
+    "subcategory": "Reservation",
+    "department": null,
+    "keywords": [
+      "reservation",
+      "quota",
+      "sc",
+      "st",
+      "obc",
+      "sebc",
+      "ews",
+      "nri",
+      "management",
+      "category",
+      "seat matrix"
+    ],
+    "question_examples": [
+      "What is the seat reservation policy at LDCE?",
+      "Is there SC/ST reservation at LDCE?",
+      "OBC quota available?",
+      "NRI seats at LDCE",
+      "EWS reservation at LDCE"
+    ],
+    "answer": "## Seat Reservation Policy\n\nLDCE follows the **Government of Gujarat reservation policy** applicable to government-aided engineering colleges:\n\n- **SC (Scheduled Caste)**: Reserved seats as per state norms\n- **ST (Scheduled Tribe)**: Reserved seats as per state norms\n- **SEBC/OBC**: Reserved seats as per state norms\n- **EWS (Economically Weaker Section)**: Reserved seats as per state norms\n- **NRI / OCI / PIO**: Separate quota managed through ACPC\n\n> ⚠️ **Exact percentages and seat counts change each academic year. Please verify with the ACPC seat matrix for the current cycle.**\n\n📎 [LDCE Admissions](https://ldce.ac.in/admissions/ug-programs) | [NRI Admission](https://ldce.ac.in/admissions/nri-admission)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "dept-cse-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Computer Engineering",
+    "keywords": [
+      "computer engineering",
+      "cse",
+      "ce",
+      "computer",
+      "software",
+      "programming",
+      "department",
+      "about"
+    ],
+    "question_examples": [
+      "Tell me about the Computer Engineering department at LDCE",
+      "About CSE at LDCE",
+      "What does the computer engineering department offer?",
+      "Is computer engineering good at LDCE?",
+      "Overview of CSE department"
+    ],
+    "answer": "## Computer Engineering Department — LDCE\n\nThe **Computer Engineering (CE/CSE)** department at LDCE is one of the most sought-after programmes. It covers core areas of software engineering, algorithms, data structures, computer networks, databases, operating systems, and emerging fields such as AI/ML, cloud computing, and cybersecurity.\n\n**Key Highlights:**\n- Affiliated with **Gujarat Technological University (GTU)**\n- Well-equipped computer labs and research facilities\n- Active student chapters and coding clubs\n- Strong industry ties and campus placement record\n\n> For the latest information on intake, syllabus, faculty, and fees, please visit the official department page.\n\n📎 [Computer Engineering — LDCE](https://ldce.ac.in/department/computer-engineering)",
+    "source_url": "https://ldce.ac.in/department/computer-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-it-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Information Technology",
+    "keywords": ["information technology", "it", "department", "about", "it department"],
+    "question_examples": [
+      "About Information Technology department at LDCE",
+      "Tell me about IT department",
+      "What is IT engineering at LDCE?",
+      "IT department overview"
+    ],
+    "answer": "## Information Technology Department — LDCE\n\nThe **Information Technology (IT)** department focuses on the application of computing to solve real-world business and technical problems. Key areas include networking, database systems, web technologies, software development, and information security.\n\n📎 [Information Technology — LDCE](https://ldce.ac.in/department/information-technology)",
+    "source_url": "https://ldce.ac.in/department/information-technology",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-aiml-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Artificial Intelligence and Machine Learning",
+    "keywords": [
+      "aiml",
+      "ai",
+      "ml",
+      "artificial intelligence",
+      "machine learning",
+      "department",
+      "about"
+    ],
+    "question_examples": [
+      "About AI/ML department at LDCE",
+      "Tell me about Artificial Intelligence and Machine Learning at LDCE",
+      "Is AIML offered at LDCE?",
+      "AI department at LDCE"
+    ],
+    "answer": "## Artificial Intelligence & Machine Learning Department — LDCE\n\nThe **AI/ML** department is one of LDCE's newest programmes, designed to meet the growing industry demand for AI expertise. It covers machine learning, deep learning, computer vision, natural language processing, data science, and AI ethics.\n\n📎 [AI/ML Department — LDCE](https://ldce.ac.in/department/ai-ml)",
+    "source_url": "https://ldce.ac.in/department/ai-ml",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-auto-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Automobile Engineering",
+    "keywords": ["automobile", "auto", "automotive", "vehicle", "department"],
+    "question_examples": [
+      "Tell me about Automobile Engineering at LDCE",
+      "Is automobile engineering available at LDCE?",
+      "About auto department at LDCE"
+    ],
+    "answer": "## Automobile Engineering Department — LDCE\n\nThe **Automobile Engineering** department focuses on vehicle design, manufacturing, automotive electronics, and sustainable transportation technologies including electric vehicles.\n\n📎 [Automobile Engineering — LDCE](https://ldce.ac.in/department/automobile-engineering)",
+    "source_url": "https://ldce.ac.in/department/automobile-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-bio-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Biomedical Engineering",
+    "keywords": ["biomedical", "bme", "bio", "medical", "department"],
+    "question_examples": [
+      "Tell me about Biomedical Engineering at LDCE",
+      "Is biomedical engineering at LDCE?",
+      "Biomedical department overview"
+    ],
+    "answer": "## Biomedical Engineering Department — LDCE\n\nThe **Biomedical Engineering** department bridges engineering and medical sciences, covering medical instrumentation, biomechanics, medical imaging, and clinical engineering.\n\n📎 [Biomedical Engineering — LDCE](https://ldce.ac.in/department/biomedical-engineering)",
+    "source_url": "https://ldce.ac.in/department/biomedical-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-chem-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Chemical Engineering",
+    "keywords": ["chemical", "chem", "chemical engineering", "department"],
+    "question_examples": [
+      "About Chemical Engineering at LDCE",
+      "Chemical department at LDCE",
+      "What does chemical engineering cover?"
+    ],
+    "answer": "## Chemical Engineering Department — LDCE\n\nThe **Chemical Engineering** department covers process design, thermodynamics, mass transfer, reaction engineering, and sustainable chemistry. It has strong ties with Ahmedabad's thriving chemical industry.\n\n📎 [Chemical Engineering — LDCE](https://ldce.ac.in/department/chemical-engineering)",
+    "source_url": "https://ldce.ac.in/department/chemical-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-civil-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Civil Engineering",
+    "keywords": ["civil", "civil engineering", "construction", "structure", "department"],
+    "question_examples": [
+      "About Civil Engineering at LDCE",
+      "Civil department at LDCE",
+      "Tell me about civil engineering"
+    ],
+    "answer": "## Civil Engineering Department — LDCE\n\nThe **Civil Engineering** department covers structural engineering, transportation, geotechnical engineering, water resources, environmental engineering, and urban planning.\n\n📎 [Civil Engineering — LDCE](https://ldce.ac.in/department/civil-engineering)",
+    "source_url": "https://ldce.ac.in/department/civil-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-elec-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Electrical Engineering",
+    "keywords": ["electrical", "ee", "electric", "power systems", "department"],
+    "question_examples": [
+      "About Electrical Engineering at LDCE",
+      "Electrical department at LDCE",
+      "What does electrical engineering cover at LDCE?"
+    ],
+    "answer": "## Electrical Engineering Department — LDCE\n\nThe **Electrical Engineering** department covers power systems, electrical machines, control systems, power electronics, and renewable energy technologies.\n\n📎 [Electrical Engineering — LDCE](https://ldce.ac.in/department/electrical-engineering)",
+    "source_url": "https://ldce.ac.in/department/electrical-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-ec-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Electronics and Communication Engineering",
+    "keywords": ["electronics", "ec", "ece", "communication", "signal", "embedded", "department"],
+    "question_examples": [
+      "About Electronics and Communication Engineering at LDCE",
+      "EC department at LDCE",
+      "Tell me about ECE",
+      "Electronics department overview"
+    ],
+    "answer": "## Electronics & Communication Engineering Department — LDCE\n\nThe **Electronics and Communication Engineering (EC/ECE)** department covers analog/digital electronics, communication systems, signal processing, embedded systems, VLSI design, and wireless technologies.\n\n📎 [EC Engineering — LDCE](https://ldce.ac.in/department/electronics-communication-engineering)",
+    "source_url": "https://ldce.ac.in/department/electronics-communication-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-env-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Environmental Engineering",
+    "keywords": ["environmental", "environment", "ecology", "pollution", "department"],
+    "question_examples": [
+      "About Environmental Engineering at LDCE",
+      "Environmental department at LDCE"
+    ],
+    "answer": "## Environmental Engineering Department — LDCE\n\nThe **Environmental Engineering** department addresses water treatment, pollution control, waste management, environmental impact assessment, and sustainable engineering practices.\n\n📎 [Environmental Engineering — LDCE](https://ldce.ac.in/department/environmental-engineering)",
+    "source_url": "https://ldce.ac.in/department/environmental-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-ic-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Instrumentation and Control Engineering",
+    "keywords": ["instrumentation", "control", "ic", "automation", "measurement", "department"],
+    "question_examples": [
+      "About Instrumentation and Control Engineering at LDCE",
+      "IC department at LDCE",
+      "Tell me about instrumentation engineering"
+    ],
+    "answer": "## Instrumentation & Control Engineering Department — LDCE\n\nThe **Instrumentation & Control Engineering (IC)** department covers process control, automation, measurement systems, sensors, and industrial instrumentation.\n\n📎 [IC Engineering — LDCE](https://ldce.ac.in/department/instrumentation-control-engineering)",
+    "source_url": "https://ldce.ac.in/department/instrumentation-control-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-mech-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Mechanical Engineering",
+    "keywords": ["mechanical", "mech", "machine", "manufacturing", "thermodynamics", "department"],
+    "question_examples": [
+      "About Mechanical Engineering at LDCE",
+      "Tell me about mech department at LDCE",
+      "Mechanical engineering overview",
+      "What does mech cover at LDCE?"
+    ],
+    "answer": "## Mechanical Engineering Department — LDCE\n\nThe **Mechanical Engineering** department is one of LDCE's oldest programmes. It covers thermodynamics, fluid mechanics, machine design, manufacturing, CAD/CAM, and robotics.\n\n📎 [Mechanical Engineering — LDCE](https://ldce.ac.in/department/mechanical-engineering)",
+    "source_url": "https://ldce.ac.in/department/mechanical-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-plastic-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Plastic Technology",
+    "keywords": ["plastic", "polymer", "plastic technology", "department"],
+    "question_examples": ["About Plastic Technology at LDCE", "Plastic technology department LDCE"],
+    "answer": "## Plastic Technology Department — LDCE\n\nThe **Plastic Technology** department focuses on polymer science, plastics processing, mould design, and material characterisation.\n\n📎 [Plastic Technology — LDCE](https://ldce.ac.in/department/plastic-technology)",
+    "source_url": "https://ldce.ac.in/department/plastic-technology",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-robotics-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Robotics and Automation",
+    "keywords": ["robotics", "automation", "robot", "mechatronics", "department"],
+    "question_examples": ["About Robotics and Automation at LDCE", "Robotics department at LDCE"],
+    "answer": "## Robotics & Automation Department — LDCE\n\nThe **Robotics and Automation** department is a newer offering at LDCE, covering robot kinematics, automation systems, industrial robots, and mechatronics.\n\n📎 [Robotics & Automation — LDCE](https://ldce.ac.in/department/robotics-automation)",
+    "source_url": "https://ldce.ac.in/department/robotics-automation",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-rubber-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Rubber Technology",
+    "keywords": ["rubber", "rubber technology", "department"],
+    "question_examples": ["About Rubber Technology at LDCE", "Rubber department at LDCE"],
+    "answer": "## Rubber Technology Department — LDCE\n\nThe **Rubber Technology** department covers rubber compound formulation, processing, testing, and applications across automotive, industrial, and consumer sectors.\n\n📎 [Rubber Technology — LDCE](https://ldce.ac.in/department/rubber-engineering)",
+    "source_url": "https://ldce.ac.in/department/rubber-engineering",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-sci-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Science and Humanities",
+    "keywords": [
+      "science",
+      "humanities",
+      "maths",
+      "physics",
+      "chemistry",
+      "basic science",
+      "department"
+    ],
+    "question_examples": [
+      "About Science and Humanities at LDCE",
+      "Basic sciences department at LDCE"
+    ],
+    "answer": "## Science & Humanities Department — LDCE\n\nThe **Science and Humanities** department supports all engineering branches with foundational courses in Mathematics, Physics, Chemistry, English Communication, and Environmental Science.\n\n📎 [Science & Humanities — LDCE](https://ldce.ac.in/department/science-humanities)",
+    "source_url": "https://ldce.ac.in/department/science-humanities",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "dept-textile-001",
+    "category": "Departments",
+    "subcategory": "About Department",
+    "department": "Textile Technology",
+    "keywords": ["textile", "fabric", "weaving", "textile technology", "department"],
+    "question_examples": ["About Textile Technology at LDCE", "Textile department at LDCE"],
+    "answer": "## Textile Technology Department — LDCE\n\nThe **Textile Technology** department covers yarn and fabric manufacturing, dyeing, finishing, textile testing, and apparel engineering — highly relevant to Gujarat's textile industry.\n\n📎 [Textile Technology — LDCE](https://ldce.ac.in/department/textile-technology)",
+    "source_url": "https://ldce.ac.in/department/textile-technology",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "fees-001",
+    "category": "Fees",
+    "subcategory": "Tuition Fees",
+    "department": null,
+    "keywords": [
+      "fees",
+      "tuition",
+      "fee structure",
+      "annual fees",
+      "semester fees",
+      "how much",
+      "cost",
+      "charges"
+    ],
+    "question_examples": [
+      "What is the fee structure at LDCE?",
+      "How much is the fee at LDCE?",
+      "What are the tuition fees?",
+      "cse fee??",
+      "fees for cse",
+      "fee for it department",
+      "Tell me about the annual fees",
+      "Yearly fees at LDCE"
+    ],
+    "answer": "## Fee Structure at LDCE\n\nLDCE is a **Government-Aided** engineering college, which means fees are significantly lower than private colleges.\n\n> ⚠️ **Exact fee amounts change each academic year and are determined by the Government of Gujarat / Fee Regulatory Committee. We cannot display specific amounts as they may be outdated.**\n\n**To get the current fee structure:**\n- Visit the **Mandatory Disclosure** document on the official LDCE website\n- Or visit the **Fees Payment** section under Student Section\n\n📎 [Mandatory Disclosure](https://ldce.ac.in/about/MandatoryDisclosure) | [Fees Payment](https://ldce.ac.in/student-section/hdfc-online-payment) | [Student Section](https://ldce.ac.in/student-section/various-forms)",
+    "source_url": "https://ldce.ac.in/about/MandatoryDisclosure",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "fees-002",
+    "category": "Fees",
+    "subcategory": "Scholarships",
+    "department": null,
+    "keywords": [
+      "scholarship",
+      "financial aid",
+      "waiver",
+      "merit scholarship",
+      "state scholarship",
+      "sc st scholarship",
+      "free ship"
+    ],
+    "question_examples": [
+      "Are there scholarships available at LDCE?",
+      "Scholarship for SC ST students",
+      "Merit scholarship at LDCE",
+      "Financial aid for students",
+      "Fee waiver eligibility",
+      "Government scholarship for engineering"
+    ],
+    "answer": "## Scholarships & Financial Aid\n\nSeveral scholarship programmes are available to LDCE students:\n\n- **Government of Gujarat Scholarships**: For SC/ST/SEBC/EWS students based on category and income\n- **Post-Matric Scholarship**: Managed through the Social Justice and Empowerment Department, Gujarat\n- **Merit-based Awards**: For academically outstanding students (details vary by year)\n- **Central Scholarships**: Like the National Means-cum-Merit Scholarship (NMMS) for eligible students\n\n> ⚠️ **Eligibility, amounts, and application deadlines change each year. Please verify with the LDCE Student Section and the official scholarship portals.**\n\n📎 [Student Section](https://ldce.ac.in/student-section/various-forms) | [Notice Board](https://ldce.ac.in/student-section/notice-board)",
+    "source_url": "https://ldce.ac.in/student-section/various-forms",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "hostel-001",
+    "category": "Hostel",
+    "subcategory": "General Information",
+    "department": null,
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "stay",
+      "residence",
+      "dorm",
+      "boys hostel",
+      "girls hostel",
+      "boarding"
+    ],
+    "question_examples": [
+      "Does LDCE have a hostel?",
+      "Is hostel available at LDCE?",
+      "Hostel facilities at LDCE",
+      "Can first year students get hostel?",
+      "Hostel for girls at LDCE",
+      "Boys hostel at LDCE"
+    ],
+    "answer": "## Hostel at LDCE\n\nLDCE provides **hostel accommodation** for students, subject to availability.\n\n**Key Points:**\n- Hostel is available for **boys** (LDCE campus hostel)\n- Girls' hostel options: Please check with the Student Section directly\n- Allotment is subject to seat availability and is not guaranteed to all students\n- Mess and dining facilities are typically part of the hostel arrangement\n\n> ⚠️ **Hostel fees, availability for the current academic year, and application procedures must be verified directly with the LDCE hostel office or Student Section.**\n\n📎 [Hostel — LDCE](https://ldce.ac.in/Infrastructure?section=hostels) | [Student Section](https://ldce.ac.in/student-section/various-forms)",
+    "source_url": "https://ldce.ac.in/Infrastructure?section=hostels",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "hostel-002",
+    "category": "Hostel",
+    "subcategory": "Fees",
+    "department": null,
+    "keywords": ["hostel fee", "hostel charges", "hostel cost", "hostel rent", "mess charges"],
+    "question_examples": [
+      "What is the hostel fee at LDCE?",
+      "How much does hostel cost at LDCE?",
+      "Hostel charges per year",
+      "Mess fee at LDCE hostel"
+    ],
+    "answer": "## Hostel Fees\n\n> ⚠️ **Hostel fees at LDCE vary by room type and academic year. We do not display specific amounts as they change yearly and can be misleading.**\n\nPlease contact the **LDCE Hostel Office** or the **Student Section** for current fee information.\n\n📎 [Hostel — LDCE](https://ldce.ac.in/Infrastructure?section=hostels) | [Contact](https://ldce.ac.in/contact)",
+    "source_url": "https://ldce.ac.in/Infrastructure?section=hostels",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "placements-001",
+    "category": "Placements",
+    "subcategory": "Overview",
+    "department": null,
+    "keywords": [
+      "placement",
+      "campus recruitment",
+      "job",
+      "career",
+      "placement cell",
+      "t&p",
+      "tnp",
+      "recruiting",
+      "companies"
+    ],
+    "question_examples": [
+      "What is the placement record at LDCE?",
+      "How are placements at LDCE?",
+      "Tell me about campus placements",
+      "Which companies visit LDCE?",
+      "Placement cell at LDCE",
+      "Job opportunities after LDCE"
+    ],
+    "answer": "## Placements at LDCE\n\nLDCE has a dedicated **Training & Placement Cell** that coordinates campus recruitment, pre-placement training, and internships.\n\n**What the Placement Cell Does:**\n- Organises campus recruitment drives with top companies\n- Conducts pre-placement training (aptitude, technical, soft skills)\n- Facilitates internship and industrial visits\n- Maintains alumni connections for referral opportunities\n\n> ⚠️ **Placement statistics (highest package, average package, number of companies, percentage placed) change every academic year. Please check the official LDCE Placement page for the latest data.**\n\n📎 [LDCE Placements](https://ldce.ac.in/placement)",
+    "source_url": "https://ldce.ac.in/placement",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "placements-002",
+    "category": "Placements",
+    "subcategory": "Packages",
+    "department": null,
+    "keywords": [
+      "package",
+      "salary",
+      "lpa",
+      "highest package",
+      "average package",
+      "ctc",
+      "internship stipend"
+    ],
+    "question_examples": [
+      "What is the highest package at LDCE?",
+      "Average salary package at LDCE",
+      "CSE placement package at LDCE",
+      "How much do LDCE graduates earn?",
+      "Salary after CSE from LDCE"
+    ],
+    "answer": "## Placement Packages\n\n> ⚠️ **Placement package statistics (highest CTC, average CTC, median salary) vary each academic year and by department. We do not quote specific figures as they can be misleading or outdated.**\n\nFor the latest verified placement statistics, please visit the official LDCE Placement page or the Mandatory Disclosure document.\n\n📎 [LDCE Placements](https://ldce.ac.in/placement) | [Mandatory Disclosure](https://ldce.ac.in/about/MandatoryDisclosure)",
+    "source_url": "https://ldce.ac.in/placement",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "placements-003",
+    "category": "Placements",
+    "subcategory": "Internships",
+    "department": null,
+    "keywords": [
+      "internship",
+      "intern",
+      "summer internship",
+      "industrial training",
+      "project internship"
+    ],
+    "question_examples": [
+      "Does LDCE provide internships?",
+      "Internship opportunities at LDCE",
+      "How to get internship through LDCE?",
+      "Summer internship for LDCE students",
+      "Industrial training at LDCE"
+    ],
+    "answer": "## Internships & Industrial Training\n\nLDCE supports students in securing internships through:\n- The **Training & Placement Cell**, which coordinates with companies visiting for internship drives\n- **Department-level industry connections** for sector-specific placements\n- **SSIP (Student Startup and Innovation Policy)** funded projects and industry collaborations\n\n> For current internship listings and application procedures, check with your department's placement coordinator or the LDCE placement office.\n\n📎 [LDCE Placements](https://ldce.ac.in/placement) | [SSIP & Startups](https://ldce.ac.in/Innovation/startups)",
+    "source_url": "https://ldce.ac.in/placement",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "academics-001",
+    "category": "Academics",
+    "subcategory": "Curriculum",
+    "department": null,
+    "keywords": [
+      "curriculum",
+      "syllabus",
+      "subjects",
+      "courses",
+      "semester",
+      "academic",
+      "gtu",
+      "program",
+      "structure"
+    ],
+    "question_examples": [
+      "What is the curriculum at LDCE?",
+      "Syllabus for CSE at LDCE",
+      "How many semesters in B.E. at LDCE?",
+      "Academic curriculum structure",
+      "What subjects are taught at LDCE?"
+    ],
+    "answer": "## Academic Curriculum at LDCE\n\nB.E. programmes at LDCE are **4-year (8-semester)** degrees affiliated with **Gujarat Technological University (GTU)**.\n\n**Structure:**\n- **Semester 1 & 2**: Common for all branches (Mathematics, Physics, Chemistry, English, basic engineering)\n- **Semester 3 onwards**: Branch-specific core subjects, labs, and electives\n- **Semester 7 & 8** (typically): Major projects, electives, and industrial training\n\n> The detailed semester-wise syllabus for each branch is published by GTU. Please refer to the GTU syllabus portal or your department for the current curriculum.\n\n📎 [LDCE Academics](https://ldce.ac.in/admissions/ug-programs) | [Academic Calendar](https://ldce.ac.in/admissions/calendar)",
+    "source_url": "https://ldce.ac.in/admissions/ug-programs",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "academics-002",
+    "category": "Academics",
+    "subcategory": "Academic Calendar",
+    "department": null,
+    "keywords": [
+      "academic calendar",
+      "exam schedule",
+      "timetable",
+      "semester dates",
+      "holiday",
+      "exam dates",
+      "results"
+    ],
+    "question_examples": [
+      "What is the academic calendar for LDCE?",
+      "Exam schedule at LDCE",
+      "When do semester exams start?",
+      "Academic timetable at LDCE",
+      "When are mid-semester exams?"
+    ],
+    "answer": "## Academic Calendar\n\nThe LDCE academic calendar follows the **GTU academic schedule**, which includes:\n- Semester start and end dates\n- Mid-semester examination dates\n- End-semester examination dates\n- Holiday and vacation periods\n\n> ⚠️ **The specific dates for each academic year are updated and published by LDCE and GTU. Please check the official calendar link for the current year.**\n\n📎 [Academic Calendar — LDCE](https://ldce.ac.in/admissions/calendar) | [GTU Official Site](https://www.gtu.ac.in)",
+    "source_url": "https://ldce.ac.in/admissions/calendar",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "facilities-001",
+    "category": "Campus Facilities",
+    "subcategory": "Library",
+    "department": null,
+    "keywords": ["library", "books", "reading room", "journals", "digital library", "e-resources"],
+    "question_examples": [
+      "Does LDCE have a library?",
+      "Tell me about the LDCE library",
+      "Library facilities at LDCE",
+      "Library opening hours",
+      "Can I access e-journals at LDCE library?"
+    ],
+    "answer": "## Library — LDCE\n\nLDCE has a well-stocked **Central Library** with:\n- Extensive collection of engineering textbooks, reference books, and journals\n- Digital library access (e-books, e-journals via INFLIBNET, DELNET)\n- Reading room facility for students\n- Book lending services for enrolled students\n\n> For current opening hours, book catalogue, and borrowing rules, please visit the library directly or refer to the official website.\n\n📎 [Library — LDCE](https://ldce.ac.in/infrastructure?section=library)",
+    "source_url": "https://ldce.ac.in/infrastructure?section=library",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "facilities-002",
+    "category": "Campus Facilities",
+    "subcategory": "Transport",
+    "department": null,
+    "keywords": [
+      "transport",
+      "bus",
+      "bus service",
+      "commute",
+      "travel",
+      "campus bus",
+      "transport facility"
+    ],
+    "question_examples": [
+      "Is there transport facility at LDCE?",
+      "Does LDCE have buses?",
+      "Campus bus timings at LDCE",
+      "How to travel to LDCE?",
+      "Transport service for students"
+    ],
+    "answer": "## Transport Facility\n\nLDCE is located in **Navrangpura, Ahmedabad**, which is well-connected by:\n- **AMTS / BRTS city buses** running to Navrangpura\n- Private auto-rickshaws and app-based cabs\n\n> ⚠️ **Information about any college-specific bus routes and timings should be verified directly with the LDCE administration, as they may change.**\n\n📎 [LDCE Campus](https://ldce.ac.in/campus-drive) | [Contact LDCE](https://ldce.ac.in/contact)",
+    "source_url": "https://ldce.ac.in/campus-drive",
+    "last_updated": "2025-10-01",
+    "needs_verification": true
+  },
+  {
+    "id": "facilities-003",
+    "category": "Campus Facilities",
+    "subcategory": "Canteen",
+    "department": null,
+    "keywords": ["canteen", "cafeteria", "food", "eat", "lunch", "mess", "dining"],
+    "question_examples": [
+      "Does LDCE have a canteen?",
+      "Food options on campus",
+      "Canteen at LDCE",
+      "Cafeteria at LDCE"
+    ],
+    "answer": "## Canteen & Dining — LDCE\n\nLDCE has a **campus canteen** serving food to students and staff during college hours.\n\n> For current menu options, timings, and pricing, please check with the canteen directly or reference the official LDCE website.\n\n📎 [Canteen — LDCE](https://ldce.ac.in/Infrastructure?section=canteen)",
+    "source_url": "https://ldce.ac.in/Infrastructure?section=canteen",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "facilities-004",
+    "category": "Campus Facilities",
+    "subcategory": "Sports",
+    "department": null,
+    "keywords": [
+      "sports",
+      "sports facility",
+      "ground",
+      "cricket",
+      "football",
+      "basketball",
+      "indoor games",
+      "gym"
+    ],
+    "question_examples": [
+      "Sports facilities at LDCE",
+      "Does LDCE have a sports ground?",
+      "Sports activities at LDCE",
+      "Gym at LDCE"
+    ],
+    "answer": "## Sports Facilities — LDCE\n\nLDCE provides **sports and recreation facilities** for students:\n- Sports ground(s) for cricket, football, and athletics\n- Indoor sports facilities\n- Annual sports events and inter-college competitions\n- NCC and NSS activities for physical and social development\n\n📎 [Sports — LDCE](https://ldce.ac.in/campus-life?section=sports) | [Clubs](https://ldce.ac.in/clubs)",
+    "source_url": "https://ldce.ac.in/campus-life?section=sports",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "contact-001",
+    "category": "Contact",
+    "subcategory": "Address and General Contact",
+    "department": null,
+    "keywords": [
+      "contact",
+      "address",
+      "phone",
+      "email",
+      "office",
+      "location",
+      "how to reach",
+      "map",
+      "admissions office"
+    ],
+    "question_examples": [
+      "What is the address of LDCE?",
+      "How to contact LDCE?",
+      "LDCE phone number",
+      "LDCE email address",
+      "Where is LDCE located?",
+      "Contact details for LDCE"
+    ],
+    "answer": "## Contact LDCE\n\n**L. D. College of Engineering**\nOpposite Gujarat University, Navrangpura,\nAhmedabad – 380015, Gujarat, India\n\n🗺️ [View on Maps](https://maps.app.goo.gl/kL6PjuUggCkpB6dv6)\n\n> ⚠️ **For specific phone numbers, fax numbers, and departmental emails, please visit the official Contact page as they may change.**\n\n📎 [Contact — LDCE](https://ldce.ac.in/contact)",
+    "source_url": "https://ldce.ac.in/contact",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  },
+  {
+    "id": "contact-002",
+    "category": "Contact",
+    "subcategory": "Official Links",
+    "department": null,
+    "keywords": ["website", "official site", "portal", "online", "link", "ldce website"],
+    "question_examples": [
+      "What is the official website of LDCE?",
+      "LDCE official website link",
+      "Where can I find official information?",
+      "Student portal LDCE"
+    ],
+    "answer": "## Official LDCE Links\n\n| Resource | Link |\n|---|---|\n| Official Website | [ldce.ac.in](https://ldce.ac.in) |\n| Admissions (UG) | [UG Programs](https://ldce.ac.in/admissions/ug-programs) |\n| Admissions (PG) | [PG Programs](https://ldce.ac.in/admissions/pg-programs) |\n| Academic Calendar | [Calendar](https://ldce.ac.in/admissions/calendar) |\n| Placements | [Placement](https://ldce.ac.in/placement) |\n| Mandatory Disclosure | [Disclosure](https://ldce.ac.in/about/MandatoryDisclosure) |\n| Student Section | [Student Section](https://ldce.ac.in/student-section/various-forms) |\n| Notice Board | [Notices](https://ldce.ac.in/student-section/notice-board) |\n| Circulars | [Circulars](https://ldce.ac.in/circular) |\n| Contact | [Contact](https://ldce.ac.in/contact) |",
+    "source_url": "https://ldce.ac.in",
+    "last_updated": "2025-10-01",
+    "needs_verification": false
+  }
+]
